@@ -18,5 +18,5 @@ JavaScript (data formatting and HTML conversion)
 Why I built it
 I wanted a way to stay current on macroeconomic and market developments without manually checking multiple sources every morning. This workflow runs fully autonomously — no manual input required after setup.
 
-That's clean, specific, and shows exactly what you built and why. Hiring managers and people you send your GitHub to will understand it immediately.Sonnet 4.6 Low
+That's clean, specific, and shows exactly what you built and why. Hiring managers and people you send your GitHub to will understand it immediately.
 <img width="910" height="639" alt="image" src="https://github.com/user-attachments/assets/90a9ea99-6973-4547-a880-a11ea0cecbbe" />
